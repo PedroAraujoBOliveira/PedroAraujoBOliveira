@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu Perfil, eu sou o Pedro 😁
+## Welcome to my Profile, I'm Pedro 😁
 
  <div>
    <a href="https://github.com/PedroAraujoBOliveira">
@@ -15,7 +15,7 @@
 
 </div>
 
-### Pra conteúdo sobre QA e qualidade no geral, me siga nas redes abaixo!
+### For more content about QA and quality in general, follow me on social media!
  
 <div> 
   <a href="https://instagram.com/p.araujooo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
